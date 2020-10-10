@@ -1,0 +1,554 @@
+[
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_order_history.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-anydpi/ic_order_history.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_heart_filled.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-anydpi/ic_heart_filled.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_icon_round.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_icon_round.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_user.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xxxhdpi/ic_user.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable_drawer_icon.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable/drawer_icon.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_email.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-hdpi/ic_email.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_address.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xxhdpi/ic_address.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_home.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-hdpi/ic_home.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_star.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xhdpi/ic_star.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_drawer_header.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/drawer_header.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_user.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-mdpi/ic_user.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_recycler_home_single_row.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/recycler_home_single_row.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_faq.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xhdpi/ic_faq.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_activity_otp.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/activity_otp.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_log_out.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xxhdpi/ic_log_out.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_phone.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-hdpi/ic_phone.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_recycler_order_history_single_row.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/recycler_order_history_single_row.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_lock.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-mdpi/ic_lock.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_user_round.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-hdpi/ic_user_round.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_user_round.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-mdpi/ic_user_round.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_user.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-anydpi-v26/ic_user.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_icon_foreground.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xhdpi/ic_launcher_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_recycler_menu_single_row.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/recycler_menu_single_row.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_activity_register.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_icon_foreground.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_address.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-anydpi/ic_address.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_icon.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_icon.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_user_round.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xxhdpi/ic_user_round.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_order_history.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-mdpi/ic_order_history.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_star.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-hdpi/ic_star.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_home.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xhdpi/ic_home.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_lock.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xxhdpi/ic_lock.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_heart.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xhdpi/ic_heart.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_fragment_cart.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_order_history.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xhdpi/ic_order_history.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_favourites.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-mdpi/ic_favourites.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_user.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xxhdpi/ic_user.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_fragment_f_a_q.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/fragment_f_a_q.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_user_round.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xhdpi/ic_user_round.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_icon_foreground.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-hdpi/ic_launcher_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_user.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xhdpi/ic_user.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_heart_filled.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xhdpi/ic_heart_filled.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_address.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-hdpi/ic_address.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_lock.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-hdpi/ic_lock.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable_ic_user_foreground.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable/ic_user_foreground.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_icon.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-mdpi/ic_launcher_icon.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_heart.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xxhdpi/ic_heart.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_activity_place_order.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/activity_place_order.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_phone.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-anydpi/ic_phone.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_faq.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-hdpi/ic_faq.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_my_profile.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-anydpi/ic_my_profile.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_star.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xxhdpi/ic_star.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_log_out.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-anydpi/ic_log_out.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_icon_round.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-hdpi/ic_launcher_icon_round.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_log_out.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-hdpi/ic_log_out.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_order_history.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-hdpi/ic_order_history.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_icon.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-hdpi/ic_launcher_icon.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_my_profile.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-hdpi/ic_my_profile.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_favourites.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-hdpi/ic_favourites.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_home.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xxhdpi/ic_home.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_my_profile.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xhdpi/ic_my_profile.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_lock.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xhdpi/ic_lock.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_log_out.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-mdpi/ic_log_out.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_favourites.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-anydpi/ic_favourites.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_icon.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_icon.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_favourites.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xhdpi/ic_favourites.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_home.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-anydpi/ic_home.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_recycler_cart_single_row.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/recycler_cart_single_row.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_heart.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-mdpi/ic_heart.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_star.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-anydpi/ic_star.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_fragment_favourites.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/fragment_favourites.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_log_out.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xhdpi/ic_log_out.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/menu_menu_sort.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/menu/menu_sort.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_heart_filled.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-mdpi/ic_heart_filled.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_address.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xhdpi/ic_address.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_fragment_order_history.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/fragment_order_history.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_faq.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-anydpi/ic_faq.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_activity_restaurant_menu.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/activity_restaurant_menu.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_user.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-hdpi/ic_user.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_my_profile.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-mdpi/ic_my_profile.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_home.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-mdpi/ic_home.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_icon_foreground.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xxhdpi/ic_launcher_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_user_round.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-anydpi-v26/ic_user_round.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_phone.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xhdpi/ic_phone.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_icon.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xxhdpi/ic_launcher_icon.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_heart_filled.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xxhdpi/ic_heart_filled.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_fragment_home.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_lock.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-anydpi/ic_lock.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_address.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-mdpi/ic_address.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_faq.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xxhdpi/ic_faq.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_email.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-anydpi/ic_email.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable_logo.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable/logo.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable_ic_launcher_icon_background.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable/ic_launcher_icon_background.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_icon_round.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-mdpi/ic_launcher_icon_round.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_email.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xxhdpi/ic_email.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_heart_filled.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-hdpi/ic_heart_filled.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_star.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-mdpi/ic_star.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_icon_round.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xxhdpi/ic_launcher_icon_round.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_my_profile.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xxhdpi/ic_my_profile.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_phone.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-mdpi/ic_phone.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_activity_forgot_pass.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/activity_forgot_pass.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/menu_menu_drawer.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/menu/menu_drawer.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_heart.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-hdpi/ic_heart.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_user_round.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xxxhdpi/ic_user_round.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/xml_network_security_config.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/xml/network_security_config.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable_ic_user_background.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable/ic_user_background.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_email.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-mdpi/ic_email.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_fragment_my_profile.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/fragment_my_profile.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_email.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xhdpi/ic_email.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable_tickblue.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable/tickblue.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable_text_boundary_background.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable/text_boundary_background.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_favourites.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xxhdpi/ic_favourites.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_faq.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-mdpi/ic_faq.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/layout_recycler_favourites_single_row.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/layout/recycler_favourites_single_row.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_icon.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xhdpi/ic_launcher_icon.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_icon_foreground.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-mdpi/ic_launcher_icon_foreground.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-anydpi_ic_heart.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-anydpi/ic_heart.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_icon_round.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-xhdpi/ic_launcher_icon_round.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_icon_round.xml.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/mipmap-anydpi-v26/ic_launcher_icon_round.xml"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_phone.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xxhdpi/ic_phone.png"
+    },
+    {
+        "merged": "/Users/smit/Downloads/App Developement/FinalProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_order_history.png.flat",
+        "source": "/Users/smit/Downloads/App Developement/FinalProject/app/src/main/res/drawable-xxhdpi/ic_order_history.png"
+    }
+]
